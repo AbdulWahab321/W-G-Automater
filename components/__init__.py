@@ -1,1 +1,0 @@
-"Initializer please do not delete this empty file it causes App to crash and won't be able to start"
