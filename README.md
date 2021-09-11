@@ -1,6 +1,6 @@
 ## W-G-Automater
 
-#Installation
+# Installation
 Download the Zip and extract it or clone it and enter to the directory and just run the exe file But Please make sure that you installed it and also it is in the path
 If you are installing it now you should check the check box "Add Python to your PATH" And Done!
 
